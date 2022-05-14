@@ -1,0 +1,13 @@
+{
+  "global" : false,
+  "icon" : "https://cdn2.hubspot.net/hubfs/507386/CLEAN-images/module-icons/icon-testimonial-slider.svg",
+  "host_template_types" : [ "PAGE", "BLOG_LISTING" ],
+  "module_id" : 70035830348,
+  "js_assets" : [ {
+    "autoload" : true,
+    "path" : "../../js/slider-flickity.js",
+    "name" : "slider-flickity.js"
+  } ],
+  "label" : "Testimonial Scroller - C6.2",
+  "is_available_for_new_content" : true
+}

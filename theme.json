@@ -1,0 +1,15 @@
+{
+  "label" : "CLEAN-6-1-theme-theia",
+  "preview_path" : "./templates/clean-home-opt-1.html",
+  "screenshot_path" : "./images/screenshots/clean-theme-screenshot.jpg",
+  "enable_domain_stylesheets" : true,
+  "is_available_for_new_content" : true,
+  "version" : "38",
+  "author" : {
+    "name" : "Helpful Hero",
+    "email" : "kevin@helpfulhero.com",
+    "url" : "https://www.helpfulhero.com/"
+  },
+  "documentation_url" : "https://happy.helpfulhero.com/",
+  "example_url" : "https://www.helpfulhero.com/clean6/theme"
+}

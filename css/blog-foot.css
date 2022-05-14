@@ -1,0 +1,9 @@
+/*** LOADS IN THE FOOT AS ASYNC ***/
+
+{% set blog_default_featured_image = '../images/gfx/feat-img-temp.jpg' %}
+
+
+/** 3RD PART CSS INCLUDES **/
+{% include './3rd-party/_fontawesome_minimal.css' %}
+
+{% include './theme-overrides.css' %}

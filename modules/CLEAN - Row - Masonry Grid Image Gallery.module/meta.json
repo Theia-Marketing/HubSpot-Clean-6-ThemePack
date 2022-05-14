@@ -1,0 +1,21 @@
+{
+  "global" : false,
+  "icon" : "https://cdn2.hubspot.net/hubfs/507386/CLEAN-images/module-icons/icon-image-grid.svg",
+  "host_template_types" : [ "PAGE", "BLOG_LISTING" ],
+  "module_id" : 70030943324,
+  "js_assets" : [ {
+    "autoload" : true,
+    "path" : "../../js/isotope.js",
+    "name" : "isotope.js"
+  }, {
+    "autoload" : true,
+    "path" : "../../js/images-loaded.js",
+    "name" : "images-loaded.js"
+  }, {
+    "autoload" : true,
+    "path" : "../../js/simple-lightbox.js",
+    "name" : "simple-lightbox.js"
+  } ],
+  "label" : "Masonry Image Gallery - C6.2",
+  "is_available_for_new_content" : true
+}

@@ -1,0 +1,8 @@
+{
+  "global" : false,
+  "icon" : "https://cdn2.hubspot.net/hubfs/507386/CLEAN-images/module-icons/icon-image-text-2.svg",
+  "host_template_types" : [ "PAGE", "BLOG_LISTING" ],
+  "module_id" : 70032118887,
+  "label" : "Image and Text - Opt 2 - C6.2",
+  "is_available_for_new_content" : true
+}

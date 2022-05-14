@@ -1,0 +1,9 @@
+{
+  "global" : true,
+  "smart_type" : "NOT_SMART",
+  "icon" : "https://f.hubspotusercontent30.net/hubfs/507386/CLEAN-images/module-icons/icon-blog-sidebar.svg",
+  "host_template_types" : [ "BLOG_POST" ],
+  "module_id" : 70030628220,
+  "label" : "Blog Post Sidebar - C6.2",
+  "is_available_for_new_content" : true
+}
